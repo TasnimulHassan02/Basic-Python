@@ -1,5 +1,5 @@
 # Basic-Python
-Python codes for beginners
+Python Codes for Beginners
 
 These codes will help you to get through the first stage of learning python. Here I attached countless tasks and coding problems from different aspects of python.
 These are the topics which will be covered in these files:
